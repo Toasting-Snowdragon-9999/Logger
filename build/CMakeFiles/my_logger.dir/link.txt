@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/my_logger.dir/link.d CMakeFiles/my_logger.dir/main.cpp.o CMakeFiles/my_logger.dir/logger.cpp.o CMakeFiles/my_logger.dir/other_process.cpp.o -o my_logger
